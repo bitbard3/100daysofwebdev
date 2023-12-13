@@ -1,6 +1,6 @@
 # 100 days of bootstrap hero section
 
-Simple hero section made with bootstrap with design imgage
+Simple hero section made with bootstrap with design image
 
 ## Usage
 
